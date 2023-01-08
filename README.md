@@ -51,5 +51,10 @@ cd basic-vite
 npm install
 ````
 
+### Run
+````
+npm run dev
+````
+
 ## Layout
 Routes already using React "Outlet"
