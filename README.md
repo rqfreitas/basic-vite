@@ -52,4 +52,4 @@ npm install
 ````
 
 ## Layout
-Routes already using <Outlet />
+Routes already using React "Outlet"
