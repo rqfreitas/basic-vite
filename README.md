@@ -41,17 +41,19 @@ Ready Frontend project sturtup, setup with Vite Startup Setup with React, Typesc
 
 ## Installation
 
-- **Clone the project** 
-- **Access created folder** 
-- **Install required libraries(dependencies)** 
-
+#### Clone the project
 ````
 git clone https://github.com/rqfreitas/basic-vite.git
+````
+#### Access created folder
+````
 cd basic-vite
+````
+#### Install required libraries(dependencies)
+````
 npm install
 ````
-
-### Run
+#### Run
 ````
 npm run dev
 ````
