@@ -50,3 +50,6 @@ git clone https://github.com/rqfreitas/basic-vite.git
 cd basic-vite
 npm install
 ````
+
+## Layout
+Routes already using <Outlet />
